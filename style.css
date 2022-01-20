@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainTextContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+}
+
+.mainText h1 {
+  font-weight: bolder;
+}
+
+.roleBtnContainer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding: 5rem;
+  background-color: aqua;
+}
+
+.roleBtn {
+  padding: 1rem;
+}
+
+#assassin:hover {
+  background-color: rgb(185, 27, 27);
+}
+
+#fighter:hover {
+  background-color: yellow;
+}
+
+#mage:hover {
+  background-color: blue;
+}
+
+#marksmen:hover {
+  background-color: lightgreen;
+}
+
+#support:hover {
+  background-color: blueviolet;
+}
+
+#tank:hover {
+  background-color: orangered;
+}
