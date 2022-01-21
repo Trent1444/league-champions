@@ -215,39 +215,73 @@ const lissandra = {
   role: "Mage",
   difficulty: "2",
   tag: "The Ice Witch",
-  description: ``,
+  description: `Lissandra's magic twists the pure power of ice 
+  into something dark and terrible. With the force of her black 
+  ice, she does more than freeze—she impales and crushes those 
+  who oppose her. To the terrified denizens of the north, she is 
+  known only as ''The Ice Witch.'' The truth is much more 
+  sinister: Lissandra is a corruptor of nature who plots to 
+  unleash an ice age on the world.`,
 };
 
-const = {
-  championName: "",
+const lux = {
+  championName: "Lux",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Lady Of Luminosity",
+  description: `Luxanna Crownguard hails from Demacia, 
+  an insular realm where magical abilities are viewed with 
+  fear and suspicion. Able to bend light to her will, she grew 
+  up dreading discovery and exile, and was forced to keep her 
+  power secret, in order to preserve her family's noble status. 
+  Nonetheless, Lux's optimism and resilience have led her to 
+  embrace her unique talents, and she now covertly wields them 
+  in service of her homeland.`,
 };
 
-const = {
-  championName: "",
+const malzahar = {
+  championName: "Malzahar",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Prophet Of The Void",
+  description: `A zealous seer dedicated to the unification of all 
+  life, Malzahar truly believes the newly emergent Void to be the 
+  path to Runeterra's salvation. In the desert wastes of Shurima, 
+  he followed the voices that whispered in his mind, all the way 
+  to ancient Icathia. Amidst the ruins of that land, he gazed into 
+  the dark heart of the Void itself, and was gifted new power and 
+  purpose. Malzahar now sees himself as a shepherd, empowered to 
+  bring others into the fold… or to release the voidling creatures 
+  that dwell beneath.`,
 };
 
-const = {
-  championName: "",
+const morgana = {
+  championName: "Morgana",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "1",
+  tag: "The Fallen",
+  description: `Conflicted between her celestial and mortal 
+  natures, Morgana bound her wings to embrace humanity, and 
+  inflicts her pain and bitterness upon the dishonest and the 
+  corrupt. She rejects laws and traditions she believes are 
+  unjust, and fights for truth from the shadows of Demacia—even 
+  as others seek to repress it—by casting shields and chains of 
+  dark fire. More than anything else, Morgana truly believes that 
+  even the banished and outcast may one day rise again.`,
 };
 
-const = {
-  championName: "",
+const neeko = {
+  championName: "Neeko",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Curious Chameleon",
+  description: `Hailing from a long lost tribe of vastaya, 
+  Neeko can blend into any crowd by borrowing the appearances 
+  of others, even absorbing something of their emotional state to 
+  tell friend from foe in an instant. No one is ever sure where—or 
+  who—Neeko might be, but those who intend to do her harm will 
+  soon witness her true colors revealed, and feel the full power 
+  of her primordial spirit magic unleashed upon them.`,
 };
 
 const = {
