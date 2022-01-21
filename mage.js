@@ -284,50 +284,251 @@ const neeko = {
   of her primordial spirit magic unleashed upon them.`,
 };
 
-const = {
-  championName: "",
+const orianna = {
+  championName: "Orianna",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Lady",
+  description: `Once a curious girl of flesh and blood, Orianna 
+  is now a technological marvel comprised entirely of clockwork. 
+  She became gravely ill after an accident in the lower districts 
+  of Zaun, and her failing body had to be replaced with exquisite 
+  artifice, piece by piece. Accompanied by an extraordinary brass 
+  sphere she built for companionship and protection, Orianna is 
+  now free to explore the wonders of Piltover, and beyond.`,
 };
 
-const = {
-  championName: "",
+const ryze = {
+  championName: "Ryze",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Rune Mage",
+  description: `Widely considered one of the most adept sorcerers 
+  on Runeterra, Ryze is an ancient, hard-bitten archmage with 
+  an impossibly heavy burden to bear. Armed with immense arcane 
+  power and a boundless constitution, he tirelessly hunts for 
+  World Runes—fragments of the raw magic that once shaped the 
+  world from nothingness. He must retrieve these artifacts before 
+  they fall into the wrong hands, for Ryze understands the horrors 
+  they could unleash on Runeterra.`,
 };
 
-const = {
-  championName: "",
+const seraphine = {
+  championName: "Seraphine",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "1",
+  tag: "The Starry-Eyed Songstress",
+  description: `Born in Piltover to Zaunite parents, Seraphine 
+  can hear the souls of others—the world sings to her, and she 
+  sings back. Though these sounds overwhelmed her in her youth, 
+  she now draws on them for inspiration, turning the chaos into 
+  a symphony. She performs for the sister cities to remind their 
+  citizens that they're not alone, that they're stronger together, 
+  and that, in her eyes, their potential is limitless.`,
 };
 
-const = {
-  championName: "",
+const swain = {
+  championName: "Swain",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "3",
+  tag: "The Noxian Grand General",
+  description: `Jericho Swain is the visionary ruler of Noxus, 
+  an expansionist nation that reveres only strength. Though he 
+  was cast down and crippled in the Ionian wars, his left arm 
+  severed, he seized control of the empire with ruthless 
+  determination… and a new, demonic hand. Now, Swain commands 
+  from the front lines, marching against a coming darkness that 
+  only he can see—in glimpses gathered by shadowy ravens from the 
+  corpses all around him. In a swirl of sacrifice and secrets, the 
+  greatest secret of all is that the true enemy lies within.`,
 };
 
-const = {
-  championName: "",
+const sylas = {
+  championName: "Sylas",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "2",
+  tag: "The Unshackled",
+  description: `Raised in one of Demacia's lesser quarters, 
+  Sylas of Dregbourne has come to symbolize the darker side of 
+  the Great City. As a boy, his ability to root out hidden 
+  sorcery caught the attention of the notorious mageseekers, 
+  who eventually imprisoned him for turning those same powers 
+  against them. Having now broken free, Sylas lives as a hardened 
+  revolutionary, using the magic of those around him to destroy 
+  the kingdom he once served… and his band of outcast mage 
+  followers seems to grow by the day.`,
 };
 
-const = {
-  championName: "",
+const syndra = {
+  championName: "Syndra",
   role: "Mage",
-  difficulty: "",
-  tag: "",
-  description: ``,
+  difficulty: "3",
+  tag: "The Dark Sovereign",
+  description: `Syndra is a fearsome Ionian mage with incredible 
+  power at her command. As a child, she disturbed the village 
+  elders with her reckless and wild magic. She was sent away to 
+  be taught greater control, but eventually discovered her 
+  supposed mentor was restraining her abilities. Forming her 
+  feelings of betrayal and hurt into dark spheres of energy, 
+  Syndra has sworn to destroy all who would try to control her.`,
+};
+
+const taliyah = {
+  championName: "Taliyah",
+  role: "Mage",
+  difficulty: "2",
+  tag: "The Stoneweaver",
+  description: `Taliyah is a nomadic mage from Shurima, torn 
+    between teenage wonder and adult responsibility. She has 
+    crossed nearly all of Valoran on a journey to learn the 
+    true nature of her growing powers, though more recently 
+    she has returned to protect her tribe. Some have mistaken 
+    her compassion for weakness and paid the ultimate price—for 
+    beneath Taliyah's youthful demeanor is a will strong enough 
+    to move mountains, and a spirit fierce enough to make the 
+    earth itself tremble.`,
+};
+
+const veigar = {
+  championName: "Veigar",
+  role: "Mage",
+  difficulty: "2",
+  tag: "The Tiny Master Of Evil",
+  description: `An enthusiastic master of dark sorcery, Veigar 
+    has embraced powers that few mortals dare approach. As a 
+    free-spirited inhabitant of Bandle City, he longed to push 
+    beyond the limitations of yordle magic, and turned instead 
+    to arcane texts that had been hidden away for thousands of 
+    years. Now a stubborn creature with an endless fascination 
+    for the mysteries of the universe, Veigar is often 
+    underestimated by others—but even though he believes 
+    himself truly evil, he possesses an inner morality that 
+    leads some to question his deeper motivations.`,
+};
+
+const velKoz = {
+  championName: "Vel'Koz",
+  role: "Mage",
+  difficulty: "3",
+  tag: "The Eye Of The Void",
+  description: `It is unclear if Vel'Koz was the first 
+    Void-spawn to emerge on Runeterra, but there has certainly 
+    never been another to match his level of cruel, calculating 
+    sentience. While his kin devour or defile everything around 
+    them, he seeks instead to scrutinize and study the physical 
+    realm—and the strange, warlike beings that dwell there—for 
+    any weakness the Void might exploit. But Vel'Koz is far from 
+    a passive observer, striking back at threats with deadly 
+    plasma, or by disrupting the very fabric of the world itself.`,
+};
+
+const vex = {
+  championName: "Vex",
+  role: "Mage",
+  difficulty: "1",
+  tag: "The Gloomest",
+  description: `In the black heart of the Shadow Isles, a lone 
+    yordle trudges through the spectral fog, content in its murky 
+    misery. With an endless supply of teen angst and a powerful 
+    shadow in tow, Vex lives in her own self-made slice of 
+    gloom, far from the revolting cheer of the “normie” world. 
+    Though she lacks ambition, she is quick to strike down color 
+    and happiness, stopping all would-be interlopers with her 
+    magical malaise.`,
+};
+
+const viktor = {
+  championName: "Viktor",
+  role: "Mage",
+  difficulty: "3",
+  tag: "The Machine Herald",
+  description: `The herald of a new age of technology, Viktor 
+    has devoted his life to the advancement of humankind. An 
+    idealist who seeks to lift the people of Zaun to a new 
+    level of understanding, he believes that only by embracing 
+    a glorious evolution of technology can humanity's full 
+    potential be realized. With a body augmented by steel and 
+    science, Viktor is zealous in his pursuit of this 
+    bright future.`,
+};
+
+const vladimir = {
+  championName: "Vladimir",
+  role: "Mage",
+  difficulty: "2",
+  tag: "The Crimson Reaper",
+  description: `A fiend with a thirst for mortal blood, 
+    Vladimir has influenced the affairs of Noxus since the 
+    empire's earliest days. In addition to unnaturally 
+    extending his life, his mastery of hemomancy allows him 
+    to control the minds and bodies of others as easily as his 
+    own. In the flamboyant salons of the Noxian aristocracy, 
+    this has enabled him to build a fanatical cult of 
+    personality around himself—while in the lowest back 
+    alleys, it allows him to bleed his enemies dry.`,
+};
+
+const xerath = {
+  championName: "Xerath",
+  role: "Mage",
+  difficulty: "3",
+  tag: "The Magus Ascendant",
+  description: `Xerath is an Ascended Magus of ancient Shurima, 
+    a being of arcane energy writhing in the broken shards of a 
+    magical sarcophagus. For millennia, he was trapped beneath 
+    the desert sands, but the rise of Shurima freed him from his 
+    ancient prison. Driven insane with power, he now seeks to 
+    take what he believes is rightfully his and replace the 
+    upstart civilizations of the world with one fashioned in 
+    his image.`,
+};
+
+const ziggs = {
+  championName: "Ziggs",
+  role: "Mage",
+  difficulty: "2",
+  tag: "The Hexplosives Expert",
+  description: `With a love of big bombs and short fuses, 
+    the yordle Ziggs is an explosive force of nature. As an 
+    inventor's assistant in Piltover, he was bored by his 
+    predictable life and befriended a mad, blue-haired bomber 
+    named Jinx. After a wild night on the town, Ziggs took her 
+    advice and moved to Zaun, where he now explores his 
+    fascinations more freely, terrorizing the chem-barons 
+    and regular citizens alike in his never ending quest to 
+    blow stuff up.`,
+};
+
+const zoe = {
+  championName: "Zoe",
+  role: "Mage",
+  difficulty: "2",
+  tag: "The Aspect Of Twilight",
+  description: `As the embodiment of mischief, imagination, 
+    and change, Zoe acts as the cosmic messenger of Targon, 
+    heralding major events that reshape worlds. Her mere 
+    presence warps the arcane mathematics governing realities, 
+    sometimes causing cataclysms without conscious effort 
+    or malice. This perhaps explains the breezy nonchalance 
+    with which Zoe approaches her duties, giving her plenty 
+    of time to focus on playing games, tricking mortals, or 
+    otherwise amusing herself. An encounter with Zoe can be 
+    joyous and life affirming, but it is always more than it 
+    appears and often extremely dangerous.`,
+};
+
+const zyra = {
+  championName: "Zyra",
+  role: "Mage",
+  difficulty: "2",
+  tag: "Rise Of The Thorns",
+  description: `Born in an ancient, sorcerous catastrophe, 
+    Zyra is the wrath of nature given form—an alluring hybrid 
+    of plant and human, kindling new life with every step. She 
+    views the many mortals of Valoran as little more than prey 
+    for her seeded progeny, and thinks nothing of slaying them 
+    with flurries of deadly spines. Though her true purpose has 
+    not been revealed, Zyra wanders the world, indulging her 
+    most primal urges to colonize, and strangle all other life 
+    from it.`,
 };
