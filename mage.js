@@ -12,6 +12,7 @@ const ahri = {
     Ahri retains a sense of empathy as
     she receives flashes of memory from each soul she consumes.`,
 };
+
 const anivia = {
   championName: "Anivia",
   role: "Mage",

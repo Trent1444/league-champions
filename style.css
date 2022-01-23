@@ -1,58 +1,30 @@
 * {
   box-sizing: border-box;
+}
+
+body {
   margin: 0;
   padding: 0;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
+#title {
+  text-align: center;
 }
 
-.mainTextContainer {
-  display: flex;
-  flex-direction: column;
+#subtitle {
+  text-align: center;
+}
+
+#details {
+  text-align: center;
+}
+
+.iconGridContainer {
+  display: grid;
   justify-content: center;
-  align-items: center;
-  line-height: 2;
+  grid-template-columns: repeat(6, 8rem);
 }
 
-.mainText h1 {
-  font-weight: bolder;
-}
-
-.roleBtnContainer {
-  display: flex;
+.iconGridContainer .roleIcon {
   justify-content: center;
-  gap: 1rem;
-  margin-top: 2rem;
-  padding: 5rem;
-  background-color: aqua;
-}
-
-.roleBtn {
-  padding: 1rem;
-}
-
-#assassin:hover {
-  background-color: rgb(185, 27, 27);
-}
-
-#fighter:hover {
-  background-color: yellow;
-}
-
-#mage:hover {
-  background-color: blue;
-}
-
-#marksmen:hover {
-  background-color: lightgreen;
-}
-
-#support:hover {
-  background-color: blueviolet;
-}
-
-#tank:hover {
-  background-color: orangered;
 }
