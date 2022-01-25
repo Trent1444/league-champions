@@ -22,9 +22,18 @@ body {
 .iconGridContainer {
   display: grid;
   justify-content: center;
+  justify-items: center;
   grid-template-columns: repeat(6, 8rem);
+  column-gap: 3rem;
+  row-gap: 1.3rem;
 }
 
 .iconGridContainer .roleIcon {
-  justify-content: center;
+  align-items: center;
+}
+
+.roleBtn {
+  font-size: 2rem;
+
+  background-color: #c2fcf2;
 }
