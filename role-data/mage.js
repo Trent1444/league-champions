@@ -1,4 +1,45 @@
 // This file holds all mages in javascript objects
+
+//array that holds all mages
+const mage = [
+  ahri,
+  anivia,
+  annie,
+  aurelionSol,
+  azir,
+  bard,
+  brand,
+  cassiopeia,
+  elise,
+  fiddlesticks,
+  heimerdinger,
+  karma,
+  karthus,
+  kennen,
+  lissandra,
+  lux,
+  malzahar,
+  morgana,
+  neeko,
+  orianna,
+  ryze,
+  seraphine,
+  swain,
+  sylas,
+  syndra,
+  taliyah,
+  veigar,
+  velKoz,
+  vex,
+  viktor,
+  vladimir,
+  xerath,
+  ziggs,
+  zoe,
+  zyra,
+];
+
+//Mage Data for use in document
 const ahri = {
   championName: "Ahri",
   role: "Mage",
