@@ -58,16 +58,19 @@
       <button class="roleBtn" id="assassinBtn" onclick="generateMage">
         Assassin
       </button>
-      <button class="roleBtn" id="fighterBtn">Fighter</button>
+      <button class="roleBtn" id="fighterBtn" onclick="check()">Fighter</button>
       <button class="roleBtn" id="mageBtn" onclick="generateMage()">
         Mage
       </button>
-      <button class="roleBtn" id="marksmenBtn">Marksmen</button>
+      <button class="roleBtn" id="marksmenBtn" onclick="generateMarksmen()">
+        Marksmen
+      </button>
       <button class="roleBtn" id="supportBtn">Support</button>
       <button class="roleBtn" id="tankBtn">Tank</button>
     </div>
     <section class="championCard"></section>
     <script src="./role-data/mage.js"></script>
+    <script src="role-data/marksmen.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
