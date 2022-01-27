@@ -7,8 +7,8 @@ let mageGenerated = 0;
 // Creates mage cards when mage button is clicked
 
 const generateMage = () => {
-  mageGenerated++;
   if (mageGenerated > 1) return;
+  mageGenerated++;
   if (mageGenerated === 1) {
     for (let i = 0; i < mage.length; i++) {
       const championCardSelector = document.querySelector(".championCard");
