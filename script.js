@@ -12,8 +12,10 @@ const generateMage = () => {
   mageGenerated++;
   if (mageGenerated === 1) {
     for (let i = 0; i < mage.length; i++) {
-      const championCardSelector = document.querySelector(".championCard");
-      const championCardElement = document.createElement("h2");
+      const championCardSelector = document.querySelector(
+        ".championCardContainer"
+      );
+      const championCardElement = document.createElement("button");
       championCardElement.classList.add("championCard");
       championCardElement.innerText = mage[i].championName;
       championCardSelector.append(championCardElement);
@@ -30,8 +32,10 @@ const generateMarksmen = () => {
   marksmenGenerated++;
   if (marksmenGenerated === 1) {
     for (let i = 0; i < marksmen.length; i++) {
-      const championCardSelector = document.querySelector(".championCard");
-      const championCardElement = document.createElement("h2");
+      const championCardSelector = document.querySelector(
+        ".championCardContainer"
+      );
+      const championCardElement = document.createElement("button");
       championCardElement.innerText = marksmen[i].championName;
       championCardSelector.append(championCardElement);
       console.log(marksmen[i]);

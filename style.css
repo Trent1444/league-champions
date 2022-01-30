@@ -19,7 +19,7 @@ body {
   text-align: center;
 }
 
-.iconGridContainer {
+.iconAndButtonGridContainer {
   display: grid;
   justify-content: center;
   justify-items: center;
@@ -34,6 +34,14 @@ body {
 
 .roleBtn {
   font-size: 2rem;
-
   background-color: #c2fcf2;
+}
+
+.championCardContainer {
+  display: flex;
+  margin-top: 3rem;
+  flex-wrap: wrap;
+}
+
+.championCardContainer {
 }

@@ -16,14 +16,14 @@ const akshan = {
   moral code: “Don't be an ass.”`,
 };
 
-// image: ".//images/marksmen/akshan.jpg",
-// const = {
-//     championName: "",
-//     role: "Marksmen",
-//     difficulty: "",
-//     tag: "",
-//     description: ``,
-//   };
+image: ".//images/marksmen/akshan.jpg",
+const = {
+    championName: "",
+    role: "Marksmen",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
 
 //array that holds all marksmen for use in script.js
 

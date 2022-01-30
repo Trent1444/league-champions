@@ -1,8 +1,8 @@
-// This file holds all assassins in javascript objects
+// This file holds all fighters in javascript objects
 
 const = {
     championName: "",
-    role: "Assassin",
+    role: "fighter",
     difficulty: "",
     tag: "",
     description: ``,
