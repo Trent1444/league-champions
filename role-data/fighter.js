@@ -7,3 +7,108 @@ const = {
     tag: "",
     description: ``,
   };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "fighter",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };

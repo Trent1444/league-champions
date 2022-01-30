@@ -7,3 +7,150 @@ const = {
     tag: "",
     description: ``,
   };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };
+const = {
+    championName: "",
+    role: "Assassin",
+    difficulty: "",
+    tag: "",
+    description: ``,
+  };

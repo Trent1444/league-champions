@@ -16,7 +16,6 @@ const akshan = {
   moral code: “Don't be an ass.”`,
 };
 
-image: ".//images/marksmen/akshan.jpg",
 const = {
     championName: "",
     role: "Marksmen",
